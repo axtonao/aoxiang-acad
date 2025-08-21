@@ -21,9 +21,9 @@ redirect_from:
 
 Hi there. I'am Xiang(Axton) Ao (敖翔). My research interests are computer graphics and 3D computer vision.
 
-At this stage, I'm focus on the field of 3D generation and stylization.
+I am dedicated to exploring the creative potential of artificial intelligence and the generation of interactive worlds. My current research focuses on visual media generation.
 
-The exquisite interplay between science and art has long been at the heart of my intellectual pursuits. I am devoted to exploring how computers can be harnessed for editing and creating within media such as film and games.
+My research career in computer graphics began while I was still in high school, under the mentorship of Professor <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.
 
 Computer graphics is awesome!!!
 
@@ -32,18 +32,17 @@ Computer graphics is awesome!!!
   <div class="highlight-block">
     <h3>🔬 Graphics Enthusiast</h3>
     <ul>
-      <li>Research interests focus on 3D Generation and Stylization.</li>
-      <li>Mentored by <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.</li>
+      <li>My passion for graphics originated from the Minecraft.</li>
     </ul>
   </div>
-  
+<!--   
   <div class="highlight-block">
     <h3>🎨 Artistic Creator</h3>
     <ul>
-      <li>I enjoy 3D design, creating with Blender</li>
+      <li>I enjoy designing.</li>
       <li>I have an <a href="https://www.artstation.com/user-8852939">ArtStation account</a>.</li>
     </ul>
-  </div>
+  </div> -->
   
   <!-- <div class="highlight-block">
     <h3>🌎 Life Explorer</h3>
@@ -56,6 +55,8 @@ Computer graphics is awesome!!!
 </div>
 
 # 🔥 News
+
+- *2025.05*: &nbsp;I was selected for the Tencent Rhino-Bird Science Talent Program for High School Students.
 
 - *2025.04*: &nbsp;I participated in <a href="http://china3dv.csig.org.cn/2025/">China3DV2025</a>, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
 
@@ -74,21 +75,22 @@ Computer graphics is awesome!!!
 
 
 
-<!-- # 🥇 Honors and Awards
-- *2024.08*: &nbsp;Second Prize in the Beijing Trial of the College Student "Innovation, Creativity and Entrepreneurship" Competition
-- *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
-- *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
+# 🥇 Honors and Awards
+- *2025.05*: &nbsp;Tencent Rhino-Bird Science Talent Program for High School Students.
 
 # 📖 Educations
 - *I am currently completing my high school education and will enter undergraduate studies in the fall of 2026.*
 <!-- - *2026.09 - ？？*: &nbsp;(Expected) hhhh, GKD University. -->
 
+# 🤝 Services
+**Volunteer**
+- *2025.04*: &nbsp;Student Volunteer of China3DV
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
+<!-- # 💻 Research Experience
 - *2025.04 - Present*: &nbsp;Research Intern, [Huli Group](https://www.xxx.org/), **HULI**.
  -->
 
