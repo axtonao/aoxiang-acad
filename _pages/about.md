@@ -23,7 +23,7 @@ Hi there. I'am Xiang(Axton) Ao (敖翔). My research interests are computer grap
 
 I am dedicated to exploring the creative potential of artificial intelligence and the generation of interactive worlds. My current research focuses on visual media generation.
 
-My research career in computer graphics began while I was still in high school, under the mentorship of Professor <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.
+My research career in computer graphics began while I was still in high school, under the mentorship of <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.
 
 Computer graphics is awesome!!!
 
