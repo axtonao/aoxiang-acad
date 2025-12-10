@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there. I'am Xiang(Axton) Ao (敖翔). My research interests are computer graphics and 3D computer vision.
+Hi there. I'am Xiang Ao (敖翔). My research interests are computer graphics and 3D computer vision.
 
 I am dedicated to exploring the creative potential of artificial intelligence and the generation of interactive worlds. My current research focuses on visual media generation.
 
@@ -56,15 +56,15 @@ Computer graphics is awesome!!!
 
 # 🔥 News
 
-- *2025.11*: &nbsp;I will be giving a presentation at Bcon2025 Shenzhen..
+- *2025.12*: &nbsp;I will be giving a presentation at Bcon2025-Shenzhen & IAICC2025.
 
 - *2025.11*: &nbsp;I received the Silver Award in the final evaluation of Rhino-Bird Science Talent Program(1 Gold Award, 2 Silver Awards).
 
 - *2025.11*: &nbsp;I participated in GAMES2025 as a volunteer.
 
-- *2025.05*: &nbsp;I was selected for the Tencent Rhino-Bird Science Talent Program for High School Students.
+<!-- - *2025.05*: &nbsp;I was selected for the Tencent Rhino-Bird Science Talent Program for High School Students.
 
-- *2025.04*: &nbsp;I participated in <a href="http://china3dv.csig.org.cn/2025/">China3DV2025</a>, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
+- *2025.04*: &nbsp;I participated in <a href="http://china3dv.csig.org.cn/2025/">China3DV2025</a>, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>. -->
 
 <!-- # 📝 Publications 
 
